@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanshashmin&label=Profile%20views&color=0e75b6&style=flat" alt="rayanshashmin" /> </p>
 
 ---
-- 👨‍💻 I’m looking for **Internship**
+- 👨‍💻 I’m working as a **Intern Software Engineer** In SLT
   
 - 🌱 I’m currently learning **MongoDb**
 
