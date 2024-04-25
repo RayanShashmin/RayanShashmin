@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanshashmin&label=Profile%20views&color=0e75b6&style=flat" alt="rayanshashmin" /> </p>
 
 ---
-- 👨‍💻 I’m working as an **Intern Software Engineer** at SLT
-  
+
 - 🌱 I’m currently learning **MongoDb**
 
 - 📝 I regularly write articles on [https://calm-cocada-cd1bdf.netlify.app/](https://calm-cocada-cd1bdf.netlify.app/)
